@@ -1,3 +1,3 @@
-Vielä opetellaan
+I want to be a coder.
 
 
