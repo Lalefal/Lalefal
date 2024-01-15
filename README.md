@@ -1,3 +1,2 @@
-I want to Python. And I want to RPA. 
-
+I want to Python.
 Student at Laurea UAS.
