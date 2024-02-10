@@ -1,3 +1,3 @@
-I want to Python.
+I want to develop.
 
 Student at Laurea UAS.
